@@ -37,7 +37,7 @@ export const StateContextProvider = ({ children }) => {
         } catch (e) {
             console.error(e);
             // if the api throws error.
-            alert('This place does not exist')
+            alert('getting some problem')
         }
     }
 
